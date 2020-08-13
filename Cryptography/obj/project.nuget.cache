@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffapGLXyG/I1e2708G9Qehf8y0j2LTG17Kp6onYrE6qoo96P/RF25MRdZbRrpHUsMxe9mws66L0UGYKOdtqhSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danielly\\Desktop\\Cryptography\\Cryptography\\Cryptography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danielly\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
