@@ -50,7 +50,7 @@ namespace Cryptography
             challenge.resumo_criptografico = hash;
 
             html = JsonConvert.SerializeObject(challenge);
-            File.WriteAllText(path + file + html);
+            File.WriteAllTextAsync(path + file + html);
             
             Console.ReadKey();
         }
